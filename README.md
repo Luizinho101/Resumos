@@ -1,53 +1,28 @@
 # Resumos
 
+# Indice
+
+* [Indice](#Indice)
+* [C#](#C#)
+* [GIT](#GIT) 
+* [GITHUB](#GITHUB)
+* [MARKDOWN](#MARKDOWN)
+* [README](#README)
+* [DESCRIÇÃO](#DESCRIÇÃO)
+
 ##  C#
 
 ##  GIT E GITHUB
 
-##  Markdown
+##  [Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-##  Lista de comandos em Markdown
+## [Readme](https://www.alura.com.br/artigos/escrever-bom-readme)
 
-##  Titulação
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-#### # titulo
-#### ## titulo
-#### ### titulo
-#### #### titulo
-#### ##### titulo
-#### ###### titulo
+## DESCRIÇÃO
 
-## Ênfase  
-#### Para dar ênfase pode usar * ou _
-## Negrito
-#### ** xxxx **
-## Link
+#### Nesse projeto vou colocar os links dos conteúdos estudados 
 
-#### Texto-Ancora: [],()
 
-#### Link direto: <>
-
-## Lista de itens
-
-#### *item
-
-#### 1.item
-
-## Imagem
-
-#### Basta colocar o ! no inicio do código 
-
-## Tabela
-
-####      Numero | Valor
-        ---------------------
-             1    |  R$ 10
-        ---------------------
-## Alinhar
-
-### A esquerda  : usar no lado esquerdo
-
-### A direita  : usar a direita
-
-### Centralizado : usar dos dois lados
 
